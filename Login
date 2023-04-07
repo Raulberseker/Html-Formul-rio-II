@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <title>Site dos Mestres Pokemons</title>
+  <link rel="stylesheet" href="style.css"> <!-- Link para o arquivo de estilo CSS -->
+</head>
+
+<header>
+    <h1>Bem-vindo ao Site dos Mestres Pokemons!</h1>
+  </header>
+
+<body>
+    <main>
+        <section id="login-section">
+            <h2>Login</h2>
+            <form id="login-form">
+              <label for="id-mestre">ID Mestre:</label>
+              <input type="text" id="id-mestre" name="id-mestre" required>
+              <label for="senha">Senha:</label>
+              <input type="password" id="senha" name="senha" required>
+              <button id="entrar" type="submit"> <a href="pokinicial.html"> Entrar </a> </button>
+            </form>
+          </section>
+        </main>
+       
+    </body>
+    
+    </html>
