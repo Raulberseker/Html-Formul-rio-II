@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Site dos Mestres Pokemons</title>
+    <style>
+      body {
+        background-image: url("https://i.pinimg.com/originals/52/69/0c/52690c8c4d930ba7ea669442b3a466ad.png");
+        background-size: cover;
+        background-color: rgba(0,0,0,0.5);
+        background-repeat: no-repeat;
+        background-position: center top;
+
+
+      }
+      img {
+        display: block;
+        margin: auto;
+      }
+      .link {
+        text-align: center;
+      }
+      .link a {
+        color: white;
+        font-size: 24px;
+        text-decoration: none;
+        border: 2px solid white;
+        padding: 10px 20px;
+        display: inline-block;
+        margin-top: 30px;
+      }
+    </style>
+  </head>
+  <body>
+    <img src="" width="310">
+    
+    <div class="link">
+      <a href="cadastrositepokemon.html">Cadastre-se</a>
+    </div>
+   
+    <div class="link">
+          <a href="Login.html">Login</a>
+    </div>
+
+    <div class="link">
+       
+
+    </div>
+
+  </body>
+</html>
